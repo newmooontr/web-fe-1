@@ -1,0 +1,24 @@
+#seker{
+    width: 40%;
+    border: 3px solid orange;
+}
+
+#yorum{
+        resize: none;
+        width: 300px;
+        height: 100px;
+
+}
+
+.hrv{
+    display: inline-block;
+    width: 50px;
+}
+
+.hrv1{display: inline-block;
+      width: 50px;
+}
+
+.hrv2{ height: 100px
+       width: 40px;
+}
